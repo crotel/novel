@@ -7,6 +7,7 @@
    :maxdepth: 2
 
    novel
+   prose
    about
    readme
    
