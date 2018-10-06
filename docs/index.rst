@@ -1,15 +1,19 @@
-MongoTs documentation
+龍一 / CROTEL 散文集
 ======================================
 
-Contents:
+目录:
 
 .. toctree::
    :maxdepth: 2
 
+   novel
+   about
    readme
-   hello
+   
 
-Indices and tables
+关于作者
 ==================
 
-* :ref:`genindex`
+.. _readme:
+
+.. include:: ../README.rst
