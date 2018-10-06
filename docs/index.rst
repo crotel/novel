@@ -7,8 +7,7 @@
    :maxdepth: 4
 
    novel
-   20181001
-   20160512
+   prose
    about
    readme
    
