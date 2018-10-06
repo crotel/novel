@@ -1,18 +1,15 @@
-class Foo:
-    """Docstring for class Foo."""
+MongoTs documentation
+======================================
 
-    #: Doc comment for class attribute Foo.bar.
-    #: It can have multiple lines.
-    bar = 1
+Contents:
 
-    flox = 1.5   #: Doc comment for Foo.flox. One line only.
+.. toctree::
+   :maxdepth: 2
 
-    baz = 2
-    """Docstring for class attribute Foo.baz."""
+   readme
+   history
 
-    def __init__(self):
-        #: Doc comment for instance attribute qux.
-        self.qux = 3
+Indices and tables
+==================
 
-        self.spam = 4
-        """Docstring for instance attribute spam."""
+* :ref:`genindex`
