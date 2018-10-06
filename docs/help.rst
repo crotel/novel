@@ -1,4 +1,4 @@
-:帮助文档:
+:帮助文档
 
 *散文，更改prose.rst，新增文章<filename>.rst。
 
