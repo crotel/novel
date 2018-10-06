@@ -4,7 +4,7 @@
 目录:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
 
    novel
    prose
@@ -13,8 +13,8 @@
    
 
 关于作者
-==================
+~~~~~~~
 
 .. _readme:
 
-.. include:: ../README.rst
+      .. include:: ../README.rst
