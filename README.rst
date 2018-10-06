@@ -1,5 +1,5 @@
 ..
 Novel by crotel
-===============
+~~~~~~~~~~~~~~~
 
-''Copyright © 2018 crotel. All rights reserved.
+     Copyright © 2018 crotel. All rights reserved.
