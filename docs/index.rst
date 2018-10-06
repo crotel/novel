@@ -12,9 +12,8 @@
    readme
    
 
-关于作者
-~~~~~~~
+版权声明及条款:
 
 .. _readme:
 
-      .. include:: ../README.rst
+.. include:: ../README.rst
