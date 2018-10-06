@@ -7,7 +7,7 @@ Contents:
    :maxdepth: 2
 
    readme
-   history
+   hello
 
 Indices and tables
 ==================
