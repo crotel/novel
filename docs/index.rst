@@ -18,6 +18,6 @@
    
    The article is purely fabricated, if there is a similarity, purely coincidental. Article copyright belongs to "龍一/CROTEL", welcome reprint, but please indicate the author and source. Thank you!
    
-//.. _readme:
+:.. _readme:
 
-//.. include:: ../README.rst
+:.. include:: ../README.rst:
