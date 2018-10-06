@@ -1,6 +1,6 @@
 <帮助文档>
 
-* 散文，更改prose.rst，新增文章<filename>.rst。
+* 新增散文，更改prose.rst，新增文章<filename>.rst。
 
    * <filename>.rst. 标题下使用半角~~~，空1行，正文。
    
