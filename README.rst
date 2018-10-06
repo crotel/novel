@@ -1,5 +1,5 @@
 ..
-Novel by crotel
-~~~~~~~~~~~~~~~
+Novel by 龍一 / CROTEL
+~~~~~~~~~~~~~~~~~~~~~
 
      Copyright © 2018 crotel. All rights reserved.
